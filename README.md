@@ -9,3 +9,7 @@
 
 - `export_url_to_PDF.py` ：将页面导出为PDF文件的小脚本。
   - 适用场景：将微信公众号、知乎专栏文章导出为PDF，供kindle, kobo等电子阅读器阅读。
+
+- `create_calendar_md.py` ：用于生成日历markdown文件的小程序。
+  - 适用场景：生成某年某月的日历。
+  - 效果： ![日历效果图](https://github.com/enify/python/blob/master/image/calender_md.png)
