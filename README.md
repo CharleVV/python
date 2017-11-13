@@ -12,4 +12,5 @@
 
 - `create_calendar_md.py` ：用于生成日历markdown文件的小程序。
   - 适用场景：生成某年某月的日历。
-  - 效果： ![日历效果图](https://github.com/enify/python/blob/master/image/calender_md.png)
+  - 效果：<br>
+  ![日历效果图](https://github.com/enify/python/blob/master/image/calender_md.png)
